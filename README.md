@@ -11,7 +11,7 @@ been a great tool. However the source code has not been easily accessible and th
 on which this project was first created is no longer responsive and we do not want to see a great project
 go down and disappear like that.
 
-#### Project Goals
+### Project Goals
 This project aims to maintain the original source code of the same using familiar tools,
 like maven in a way that is accessible to allow contributions. It is based on version 5.1.0 of dynamic reports
 and Jasper Reports version 6.5.1. We are not trying to rewrite the whole thing, but rather to enhance that which
@@ -27,11 +27,11 @@ These are the main goals of the project
 - Enhance the documentation in the source code that would make the user clear on what the library is trying to
   do
   
-#### Documentation
+### Documentation
 
 See [Readthedocs](https://dynamicreports.readthedocs.io/en/latest/)
 
-#### Project Dependencies
+### Project Dependencies
 A few tools merit to be mentioned:
  - Versioning : git
  - Build Tool : maven
@@ -41,16 +41,16 @@ A few tools merit to be mentioned:
  that up too)
  - Documentation Hosting: [readthedocs.org](https://readthedocs.org/)
 
-#### Contributing
+### Contributing
 
 See [CONTRIBUTING](.github/CONTRIBUTING.md)
 
-#### Raising Issues or bug reports
+### Raising Issues or bug reports
 Before submitting a bug report see this [checklist](.github/CONTRIBUTING.md/#before-submitting-a-bug-report) and be sure
 to follow this [approach](.github/CONTRIBUTING.md/#how-do-i-submit-a-good-bug-report) with as many details as possible.
 and fill out the issue [template](.github/ISSUE_TEMPLATE.md)
 
-#### Rules for Mergeable PRs
+### Rules for Mergeable PRs
 This is a young project and we would like it to continue to grow, and because of that, kindly be gentle and
 understanding when it seems like the maintainers are just making stuff up as they go:
 - The [travis](https://github.com/dynamicreports/dynamicreports/blob/master/.travis.yml) build must run successfully.
